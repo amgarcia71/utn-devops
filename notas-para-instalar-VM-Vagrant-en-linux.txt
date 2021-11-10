@@ -1,0 +1,9 @@
+Install parallels 
+
+https://www.parallels.com/products/desktop/
+
+Install vagrant
+https://releases.hashicorp.com/vagrant/2.2.19/vagrant_2.2.19_x86_64.dmg
+
+Install vagrant-parallels plugin
+$ vagrant plugin install vagrant-parallels
